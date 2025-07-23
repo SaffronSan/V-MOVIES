@@ -11,10 +11,10 @@
     <div>
       <h4>Socials</h4>
       <div class="flex space-x-2">
-        <a href="">
+        <a href="www.linkedin.com/in/anishthapa04" target="_blank" >
           <LinkedinIcon />
         </a>
-        <a href="">
+        <a href="https://github.com/SaffronSan" target="_blank">
           <GithubIcon />
         </a>
       </div>
